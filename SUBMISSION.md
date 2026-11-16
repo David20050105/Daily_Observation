@@ -1,6 +1,6 @@
 # 作業繳交草稿
 
-> 尚未上傳 GitHub 或公開發布。請於確認後填入真實連結，並替換個人資料佔位文字。
+> 已上傳 GitHub 並透過 GitHub Pages 公開發布；繳交前請填入下方個人資料。
 
 **繳交標題：**［學校］［學號］［系級］［姓名］日常觀察所
 
@@ -12,17 +12,17 @@
 
 ## 2. GitHub Repository 連結
 
-［待實際上傳後填寫］
+[David20050105/Daily_Observation](https://github.com/David20050105/Daily_Observation)
 
 ## 3. 網頁連結
 
-［待實際公開發布後填寫］
+[日常觀察所](https://david20050105.github.io/Daily_Observation/)
 
 ## 4. AGENTS.md
 
 完整規則位於專案根目錄的 `AGENTS.md`；網站的「共作規則」頁也會同步呈現原始文件，並提供下載。文件包含專案目的、檔案結構、視覺規範、內容 schema、AI 修改規則與驗收方式。
 
-上傳後可附上 GitHub 中 `AGENTS.md` 的實際連結，或直接附上該檔案。
+[查看 AGENTS.md](https://github.com/David20050105/Daily_Observation/blob/main/AGENTS.md)
 
 ## 5. 規則如何幫助 AI 繼續新增內容？
 
